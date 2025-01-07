@@ -5,6 +5,7 @@
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
     <UserSecretsId>aspnet-TaskManager-629e1e00-c829-4ee1-98b4-4d1588db6dba</UserSecretsId>
+    <OutputType>WinExe</OutputType>
   </PropertyGroup>
 
   <ItemGroup>
